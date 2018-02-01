@@ -1,0 +1,5 @@
+name: TeleportProtect
+main: me.skymc.teleportprotect.TeleportProtect
+version: 1.0-SNAPSHOT
+
+author: [坏黑]
